@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Contains Duplicate/Contains Duplicate.iml" filepath="$PROJECT_DIR$/Contains Duplicate/Contains Duplicate.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/LeetcodePrac.iml" filepath="$PROJECT_DIR$/.idea/LeetcodePrac.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Two Sum/Two Sum.iml" filepath="$PROJECT_DIR$/Two Sum/Two Sum.iml" />
       <module fileurl="file://$PROJECT_DIR$/Valid Anagram/Valid Anagram.iml" filepath="$PROJECT_DIR$/Valid Anagram/Valid Anagram.iml" />
     </modules>
   </component>

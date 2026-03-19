@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Contains Duplicate/Contains Duplicate.iml" filepath="$PROJECT_DIR$/Contains Duplicate/Contains Duplicate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Contains Duplicate/FrequentElementArray/FrequentElementArray.iml" filepath="$PROJECT_DIR$/Contains Duplicate/FrequentElementArray/FrequentElementArray.iml" />
       <module fileurl="file://$PROJECT_DIR$/Group Anagrams/Group Anagrams.iml" filepath="$PROJECT_DIR$/Group Anagrams/Group Anagrams.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/LeetcodePrac.iml" filepath="$PROJECT_DIR$/.idea/LeetcodePrac.iml" />
       <module fileurl="file://$PROJECT_DIR$/Reverse an Array in groups of given size/Reverse an Array in groups of given size.iml" filepath="$PROJECT_DIR$/Reverse an Array in groups of given size/Reverse an Array in groups of given size.iml" />
